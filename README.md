@@ -1,2 +1,2 @@
 # youtubethmb
-jQuery plugin to implement basic YouTube player when user clicks on thumbnail
+jQuery plugin, wich replaces youtube videos on the page by their thumb images and then playing them when clicked
